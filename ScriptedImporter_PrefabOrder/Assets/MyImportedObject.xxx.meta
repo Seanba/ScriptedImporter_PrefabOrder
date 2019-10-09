@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 5bbfb398e664d6240b3f5131792ed56d
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: MyImportedObject/MyImportedObject
+    100002: MyImportedObject/MyImportedObject/TestPrefab(Clone)
+    100004: MyImportedObject/MyImportedObject/TestPrefab(Clone)/aaaFrontPanel
+    100006: MyImportedObject/MyImportedObject/TestPrefab(Clone)/aaaFrontPanel/Text
+    100008: MyImportedObject/MyImportedObject/TestPrefab(Clone)/bbbBackPannel
+    100010: MyImportedObject/MyImportedObject/TestPrefab(Clone)/bbbBackPannel/Text
+    400000: MyImportedObject/MyImportedObject/Transform
+    11400000: MyImportedObject/MyImportedObject/TestPrefab(Clone)/MonoBehaviour-UnityEngine.UI.CanvasScaler
+    11400002: MyImportedObject/MyImportedObject/TestPrefab(Clone)/MonoBehaviour-UnityEngine.UI.GraphicRaycaster
+    11400004: MyImportedObject/MyImportedObject/TestPrefab(Clone)/aaaFrontPanel/MonoBehaviour-UnityEngine.UI.Image
+    11400006: MyImportedObject/MyImportedObject/TestPrefab(Clone)/aaaFrontPanel/Text/MonoBehaviour-UnityEngine.UI.Text
+    11400008: MyImportedObject/MyImportedObject/TestPrefab(Clone)/bbbBackPannel/MonoBehaviour-UnityEngine.UI.Image
+    11400010: MyImportedObject/MyImportedObject/TestPrefab(Clone)/bbbBackPannel/Text/MonoBehaviour-UnityEngine.UI.Text
+    22200000: MyImportedObject/MyImportedObject/TestPrefab(Clone)/aaaFrontPanel/CanvasRenderer
+    22200002: MyImportedObject/MyImportedObject/TestPrefab(Clone)/aaaFrontPanel/Text/CanvasRenderer
+    22200004: MyImportedObject/MyImportedObject/TestPrefab(Clone)/bbbBackPannel/CanvasRenderer
+    22200006: MyImportedObject/MyImportedObject/TestPrefab(Clone)/bbbBackPannel/Text/CanvasRenderer
+    22300000: MyImportedObject/MyImportedObject/TestPrefab(Clone)/Canvas
+    22400000: MyImportedObject/MyImportedObject/TestPrefab(Clone)/RectTransform
+    22400002: MyImportedObject/MyImportedObject/TestPrefab(Clone)/aaaFrontPanel/RectTransform
+    22400004: MyImportedObject/MyImportedObject/TestPrefab(Clone)/aaaFrontPanel/Text/RectTransform
+    22400006: MyImportedObject/MyImportedObject/TestPrefab(Clone)/bbbBackPannel/RectTransform
+    22400008: MyImportedObject/MyImportedObject/TestPrefab(Clone)/bbbBackPannel/Text/RectTransform
+    100100000: MyImportedObject
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 6dc5ada9875281f438aaec735bc78242, type: 3}
