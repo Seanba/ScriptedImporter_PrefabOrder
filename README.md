@@ -25,4 +25,15 @@ We would like this order of child objects to be preserved when we instantiate th
 
 Some Unity components, like UI elements, are rendered in the order they appear in the scene hierarchy so the re-ordered children can be the source of bugs.
 
+To Reproduce
+------------
+
+In order to reprodcue the bug you'll want to run the scripted importer and view the resulting asset in the scene.
+
+![](docs/repro-reimport.png)
+
+1. Reimport `Assets/MyImportedObject`. This uses the scripted importer that attaches a prefab instance.
+2. Drag `Assets/MyImportedObject` in the scene hierarchy
+3. Expand `MyImportedObject` in the scene hierarchy to see the `TestPrefab` children are out of order.
+
 This depot is currently using Unity 2019.2.8f1. This behavior was first noticed with 2018.3.0f2.
